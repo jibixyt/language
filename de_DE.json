@@ -2,11 +2,12 @@
   "name": "Deutsch",
   "prefix": "§4King§gBuild §8» §7",
   "localeCode": "de_DE",
-  
+
   "values": {
-    
+
     "raw.player": "Spieler",
     "raw.players": "Spieler",
+    "raw.enemy": "Gegner",
     "raw.spectators": "Zuschauer",
     "raw.coin": "Coin",
     "raw.coins": "Coins",
@@ -22,8 +23,10 @@
     "raw.deaths": "Tode",
     "raw.level": "Level",
     "raw.highestLevel": "Höchstes Level",
-    "raw.map": "Map",
+    "raw.map": "Karte",
+    "raw.match": "Spiel",
     "raw.round": "Runde",
+    "raw.points": "Punktestand",
     "raw.allowed": "Erlaubt",
     "raw.forbidden": "Verboten",
     "raw.team.blue": "§1Blau",
@@ -54,13 +57,13 @@
     "raw.team.white.color": "§f",
     "raw.team.gold": "§gGold",
     "raw.team.gold.color": "§g",
-    
+
     "coinmanager.mustBeNumeric": "{PREFIX}§4{0}§c ist keine gültige Zahl.",
     "coinmanager.yourCoins": "{PREFIX}Du hast §6{0} {1}§7.",
     "coinmanager.setCoins": "{PREFIX}§b{0}'s §7coins wurden auf §6{1}§7 gesetzt.",
     "coinmanager.addCoins": "{PREFIX}Du hast §b{0} {1} §b{2}§7 gegeben.",
     "coinmanager.removeCoins": "{PREFIX}Du hast §b{0} {1}§7 von §b{2}§7 entfernt.",
-    
+
     "message.notEnoughCoins": "{PREFIX}§cDu hast nicht genügend Coins um dir das zu kaufen!",
     "message.setupNeedet": "§cEs wurde noch kein Setup für diesen Spielmodus festgelegt.",
     "message.teamWin": "{0}§aTeam {1}{2}§a hat die Runde mit {1}{3}§a Kills gewonnen!",
@@ -174,20 +177,20 @@
     "message.youWereChallanged": "Du wurdest von §e{0}§r§7 herausgefordert!",
     "message.youChallanged": "Du hast §e{0}§r§7 herausgefordert!",
     "message.alreadyInAMatch": "§cDu bist bereits in einer Runde, bitte verlasse die Runde (/leave) bevor du die Warteschlange betrittst!",
-    
+
     "chatformat.blocked": "§7[§cBlockiert§7]",
-    
+
     "popup.skinReset": "Skin erfolgreich Resetet",
     "popup.waitingForEnemy": "Warte auf einen Gegner...",
     "popup.maximumPlaceheight": "§cMaximale Bauhöhe erreicht!",
     "popup.spawnProtection": "§cSpawnschutz!",
-    
+
     "majority": "n",
-    
+
     "scoreboard.starting.soon": "§cWarte auf Spieler",
     "scoreboard.starting.in": "§aStart in {0}",
     "scoreboard.playersLeft": "§c{0} Spieler übrig.",
-    
+
     "ui.title.selectStick": "Stick auswählen",
     "ui.title.spectate": "Zuschauen",
     "ui.title.selectLanguage": "Sprache",
@@ -223,23 +226,23 @@
     "ui.button.shop.buildffa.plattform": "§71x§3 Plattform",
     "ui.button.shop.buildffa.medicine": "§71x§3 Medizin",
     "ui.button.voteCooldown": "§e{0}§7 Sekunde{1}",
-    
+
     "reason.toMuchCps": "Du hast zu viele Cps!",
-    
+
     "getdown.playerAtBottom": "§9Get§2Down §8» §7§b{0} §7hat den Boden erreicht.",
     "getdown.gameStartsIn": "§9Get§2Down §8» §7§9PvP-Match startet in §e{0} §9Sekunden.",
     "getdown.notEnchantableItem": "{PREFIX}§cDieses Item kannst du nicht verzaubern.",
     "getdown.equipNow": "§9Get§2Down §8» §7§cJetzt kannst du dir Equipment kaufen.\n§g§l§oKlicke auf den §6Amboss§g um den §6Item-Shop§g zu öffnen.",
-    
+
     "IMPORTANT1": "DO NOT CHANGE 'getdown.ui.error', 'getdown.ui.notEnoughCoins', 'getdown.ui.price'",
-    
+
     "getdown.ui.error": "§4Error\n§7{0} exist nicht.",
     "getdown.ui.notEnoughCoins": "§c{0}\n§c§oNicht genug Coins.",
     "getdown.ui.price": "§a{0}\n§6§o{1} Coins",
-    
+
     "languageApi.reloaded": "{PREFIX}LanguageAPI wurde neu geladen.",
     "languageApi.wasUpdated": "{PREFIX}Deine Sprache wurde auf §f{0} §7gesetzt.",
-    
+
     "item.start": "§eStart",
     "item.skip": "§eCountdown Überspringen",
     "item.backToHub": "§4Zurück zur Lobby",
@@ -267,7 +270,7 @@
     "item.lobbyTrain.leave": "§cAussteigen",
     "item.lobbyTrain.horn": "§6Horn",
     "item.lobbyTrain.bost": "§6Boost",
-    
+
     "betterSpectator.chatFormat": "§8[§7ZUSCHAUER§8] §7{0} §8> §7{1}",
     "betterSpectator.item.teleportToPlayer.name": "§r§l§eTeleport zum Spieler§r",
     "betterSpectator.item.teleportToPlayer.lore": "null",
@@ -284,7 +287,7 @@
     "betterSpectator.message.startViewing": "{PREFIX}§6Du schaust §b{0}§6 in der Ego-Perspektive zu.",
     "betterSpectator.message.stopViewing": "{PREFIX}§cDu schaust §b{0}§c nicht mehr in der Ego-Perspektive zu.",
     "betterSpectator.raw.spectator": "Zuschauer",
-    
+
     "cores.alreadyInTeam": "{PREFIX}§cDu bist bereits in diesem Team.",
     "cores.teamIsFull": "{PREFIX}§cDieses Team ist leider voll.",
     "cores.setupNeeded": "{PREFIX}§4Bitte erstelle eine Arena.",
@@ -303,10 +306,10 @@
     "cores.onTeamChoose": "{PREFIX}§aDu hast Team {0}§a betreten.",
     "cores.breakOwnCore": "§cDu kannst deinen eigenen Core nicht zerstören!",
     "cores.coreWasDestroyed": "{0} §7hat den {2} §7von {1} §7zerstört.",
-    
+
     "lasertag.subtitle.win": "§aTeam §f{0}{1}§a hat§c LaserTag§a gewonnen{2}{0}{3}§7/{4}{5}§a Kills",
     "lasertag.subtitle.draw": "§cGleichstand! Kein Team gewinnt.{0}§c{1}§7/§1{2}§a Kills",
-    
+
     "lobby.flyWasEnabled": "{PREFIX}Fly wurde §aaktiviert§7.",
     "lobby.flyWasDisabled": "{PREFIX}Fly wurde §cdeaktiviert§7.",
     "vanish.enabled": "{PREFIX}Vanish wurde §aaktiviert§7.",
