@@ -7,6 +7,7 @@
 
     "raw.player": "Player",
     "raw.players": "Players",
+    "raw.enemy": "Enemy",
     "raw.spectators": "Spectators",
     "raw.coin": "Coin",
     "raw.coins": "Coins",
@@ -23,7 +24,9 @@
     "raw.level": "Level",
     "raw.highestLevel": "Highest Level",
     "raw.map": "Map",
+    "raw.match": "Match",
     "raw.round": "Round",
+    "raw.points": "Points",
     "raw.allowed": "Allowed",
     "raw.forbidden": "Forbidden",
     "raw.team.blue": "§1Blue",
@@ -235,7 +238,7 @@
     "getdown.ui.price": "§a{0}\n§6§o{1} Coins",
 
     "languageApi.reloaded": "{PREFIX}LanguageAPI was reloaded.",
-    "languageApi.wasUpdated": "{PREFIX}Language was set to §f{0} §7.",
+    "languageApi.wasUpdated": "{PREFIX}Your language was set to §f{0}§7.",
 
     "ui.title.spectate": "Spectate",
     "item.start": "§eStart",
