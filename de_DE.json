@@ -180,6 +180,7 @@
     "message.alreadyInAMatch": "§cDu bist bereits in einer Runde, bitte verlasse die Runde (/leave) bevor du die Warteschlange betrittst!",
     "message.buildModeEnabled": "{PREFIX}§aDu hast den Build-Modus aktiviert!",
     "message.buildModeDisabled": "{PREFIX}§cDu hast den Build-Modus deaktiviert!",
+    "message.haveFunOnKingBuild": "{PREFIX}§aViel Spaß, beim Spielen auf§4 King§gBuild§a!",
 
     "chatformat.blocked": "§7[§cBlockiert§7]",
 
@@ -228,6 +229,7 @@
     "ui.button.profile": "§7Profil",
     "ui.button.stats": "§7Statistiken",
     "ui.button.settings": "§7Einstellungen",
+    "ui.button.confirm": "§aAkzeptieren",
     "ui.button.buy": "§aKaufen",
     "ui.button.cancle": "§cAbbrechen",
     "ui.button.close": "§cSchließen",
