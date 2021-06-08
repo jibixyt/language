@@ -135,6 +135,8 @@
     "message.kick.yourSkinIsToBig": "Dein Skin ist zu groß!",
     "message.yourSkinIsInvisible": "Bitte benutze keine Skins die Unsichtbar sind, da die anderen Spieler dich sonst nicht sehen können!",
     "message.kick.yourSkinIsInvisible": "Dein Skin ist unsichtbar!",
+    "message.youUsingVPN": "Bei dir wurde eine VPN erkannt!",
+    "message.kick.youUsingVPN": "Bitte benutze keine VPN auf§4 King§gBuild§c!",
     "message.alreadyInTeam": "{PREFIX}§cDu bist bereits in diesen §dTeam§8.",
     "message.teamIsFull": "{PREFIX}§cDieses §dTeam§c ist bereits voll§8.",
     "message.teamHasMoreMembers": "{PREFIX}§cDieses§d Team§c hat mehr Mitglieder als dein Team!",
