@@ -179,6 +179,7 @@
     "message.alreadyInAMatch": "§cYou are already in a match, please leave the match (/leave) before you enter the queue!",
     "message.buildModeEnabled": "{PREFIX}§aYou have enabled the Build-Mode!",
     "message.buildModeDisabled": "{PREFIX}§cYou have disabled the Build-Mode!",
+    "message.haveFunOnKingBuild": "{PREFIX}§aVHave fun playing on §4 King§gBuild§a!",
 
     "chatformat.blocked": "§7[§cBlocked§7]",
 
@@ -226,6 +227,7 @@
     "ui.button.profile": "§7Profile",
     "ui.button.stats": "§7Stats",
     "ui.button.settings": "§7Settings",
+    "ui.button.confirm": "§aConfirm",
     "ui.button.buy": "§aBuy",
     "ui.button.cancle": "§cCancel",
     "ui.button.close": "§cClose",
