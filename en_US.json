@@ -183,6 +183,7 @@
     "message.buildModeDisabled": "{PREFIX}§cYou have disabled the Build-Mode!",
     "message.haveFunOnKingBuild": "{PREFIX}§aVHave fun playing on §4 King§gBuild§a!",
     "message.youWereWarned": "{PREFIX}§cYou were warned, reason:§5 {0}!{1}{PREFIX}§cYou have now§5 {2}§c warnings.",
+    "message.lastWarning": "{PREFIX}§cThis is your last warning, should you do this again, you will be punished!",
 
     "chatformat.blocked": "§7[§cBlocked§7]",
 
