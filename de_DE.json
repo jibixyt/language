@@ -184,6 +184,7 @@
     "message.buildModeDisabled": "{PREFIX}§cDu hast den Build-Modus deaktiviert!",
     "message.haveFunOnKingBuild": "{PREFIX}§aViel Spaß, beim Spielen auf§4 King§gBuild§a!",
     "message.youWereWarned": "{PREFIX}§cDu wurdest verwarnt, Grund:§5 {0}!{1}{PREFIX}§cDu hast jetzt§5 {2}§c Verwarnungen.",
+    "message.lastWarning": "{PREFIX}§cDies ist deine letze Verwarnung, solltest du das nochmal machen, wirst du bestraft!",
 
     "chatformat.blocked": "§7[§cBlockiert§7]",
 
