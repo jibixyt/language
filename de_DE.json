@@ -183,8 +183,7 @@
     "message.buildModeEnabled": "{PREFIX}§aDu hast den Build-Modus aktiviert!",
     "message.buildModeDisabled": "{PREFIX}§cDu hast den Build-Modus deaktiviert!",
     "message.haveFunOnKingBuild": "{PREFIX}§aViel Spaß, beim Spielen auf§4 King§gBuild§a!",
-    "message.youHaveWarnings": "{PREFIX}§cDu wurdest verwarnt, Grund:§5 {0}!{1}§cDu hast jetzt§5 {2}§c Verwarnungen.",
-    "message.test": "{PREFIX}§cLol ich weiß nd§5 {0}§a {1}",
+    "message.youWereWarned": "{PREFIX}§cDu wurdest verwarnt, Grund:§5 {0}!{1}§cDu hast jetzt§5 {2}§c Verwarnungen.",
 
     "chatformat.blocked": "§7[§cBlockiert§7]",
 
