@@ -177,14 +177,12 @@
     "message.queueJoined": "§aDu hast die Warteschlange betreten!",
     "message.queueLeft": "§cDu hast die Warteschlange verlassen!",
     "message.stickWasSuccessfulChanged": "§aDein Stick wurde erfolgreich gewechselt!",
-    "message.youWereChallanged": "Du wurdest von §e{0}§r§7 herausgefordert!",
-    "message.youChallanged": "Du hast §e{0}§r§7 herausgefordert!",
+    "message.youWereChallenged": "Du wurdest von §e{0}§r§7 herausgefordert!",
+    "message.youChallenged": "Du hast §e{0}§r§7 herausgefordert!",
     "message.alreadyInAMatch": "§cDu bist bereits in einer Runde, bitte verlasse die Runde (/leave) bevor du die Warteschlange betrittst!",
     "message.buildModeEnabled": "{PREFIX}§aDu hast den Build-Modus aktiviert!",
     "message.buildModeDisabled": "{PREFIX}§cDu hast den Build-Modus deaktiviert!",
     "message.haveFunOnKingBuild": "{PREFIX}§aViel Spaß, beim Spielen auf§4 King§gBuild§a!",
-    "message.youWereWarned": "{PREFIX}§cDu wurdest verwarnt, Grund:§3 {0}§c!",
-    "message.lastWarning": "{PREFIX}§cDies ist deine letze Verwarnung, solltest du das nochmal machen, wirst du bestraft!",
 
     "chatformat.blocked": "§7[§cBlockiert§7]",
 
@@ -192,6 +190,7 @@
     "popup.waitingForEnemy": "Warte auf einen Gegner...",
     "popup.maximumPlaceheight": "§cMaximale Bauhöhe erreicht!",
     "popup.spawnProtection": "§cSpawnschutz!",
+    "poup.alreadyChallenged": "§cDu hast§e {1}§c bereits herausgefordert!",
 
     "majority": "n",
 
