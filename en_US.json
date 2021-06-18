@@ -189,7 +189,7 @@
     "chatformat.blocked": "§7[§cBlocked§7]",
 
     "popup.skinReset": "Skin was reseted",
-    "popup.waitingForEnemy": "§9Waiting for an Enemy{0}",
+    "popup.waitingForEnemy": "§8Waiting for an Enemy{0}",
     "popup.maximumPlaceheight": "§cMaximum Placeheight reached!",
     "popup.spawnProtection": "§cSpawn protection!",
     "popup.alreadyChallenged": "§cYou have already challenged§e {0}§c !",
