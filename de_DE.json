@@ -190,8 +190,8 @@
     "chatformat.blocked": "§7[§cBlockiert§7]",
 
     "popup.skinReset": "Skin erfolgreich Resetet",
-    "popup.waitingForEnemy": "§9Warte auf einen Gegner{0}",
-    "popup.maximumPlaceheight": "§cMaximale Bauhöhe erreicht!",
+    "popup.waitingForEnemy": "§8Warte auf einen Gegner{0}",
+    "popup.maximumPlaceheight": "§cMaximale Bauhöhe ereicht!",
     "popup.spawnProtection": "§cSpawnschutz!",
     "popup.alreadyChallenged": "§cDu hast§e {0}§c bereits herausgefordert!",
 
