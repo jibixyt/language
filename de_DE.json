@@ -180,6 +180,7 @@
     "message.youWereChallenged": "Du wurdest von §e{0}§r§7 herausgefordert!",
     "message.youChallenged": "Du hast §e{0}§r§7 herausgefordert!",
     "message.alreadyInAMatch": "§cDu bist bereits in einer Runde, bitte verlasse die Runde (/leave) bevor du die Warteschlange betrittst!",
+    "message.playerSpectatesNow": "§e{0}§b guckt nun der Runde zu!",
     "message.buildModeEnabled": "{PREFIX}§aDu hast den Build-Modus aktiviert!",
     "message.buildModeDisabled": "{PREFIX}§cDu hast den Build-Modus deaktiviert!",
     "message.haveFunOnKingBuild": "{PREFIX}§aViel Spaß, beim Spielen auf§4 King§gBuild§a!",
@@ -190,7 +191,7 @@
     "popup.waitingForEnemy": "Warte auf einen Gegner...",
     "popup.maximumPlaceheight": "§cMaximale Bauhöhe erreicht!",
     "popup.spawnProtection": "§cSpawnschutz!",
-    "poup.alreadyChallenged": "§cDu hast§e {1}§c bereits herausgefordert!",
+    "popup.alreadyChallenged": "§cDu hast§e {0}§c bereits herausgefordert!",
 
     "majority": "n",
 
