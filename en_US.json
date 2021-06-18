@@ -178,6 +178,8 @@
     "message.stickWasSuccessfulChanged": "§aYour stick was successfully changed!",
     "message.youWereChallenged": "You were challenged by §e{0}§r§!",
     "message.youChallenged": "You challenged §e{0}§r§7!",
+    "message.youUnChallenged": "You have unchallenged§e {0}§r§7!",
+    "message.youWereUnChallenged": "§e{0}§r§7 have unchallanged you!",
     "message.alreadyInAMatch": "§cYou are already in a match, please leave the match (/leave) before you enter the queue!",
     "message.playerSpectatesNow": "§e{0}§b is now spectating the match!",
     "message.buildModeEnabled": "{PREFIX}§aYou have enabled the Build-Mode!",
@@ -187,7 +189,7 @@
     "chatformat.blocked": "§7[§cBlocked§7]",
 
     "popup.skinReset": "Skin was reseted",
-    "popup.waitingForEnemy": "Waiting for an Enemy...",
+    "popup.waitingForEnemy": "§9Waiting for an Enemy{0}",
     "popup.maximumPlaceheight": "§cMaximum Placeheight reached!",
     "popup.spawnProtection": "§cSpawn protection!",
     "popup.alreadyChallenged": "§cYou have already challenged§e {0}§c !",
