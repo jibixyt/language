@@ -222,7 +222,7 @@
     "ui.text.input_player": "§3Bitte gebe einen Spieler an.",
     "ui.text.selectLanguage": "§3Bitte wähle deine Sprache aus.",
     "ui.text.stats.lasertag": "§eRunden: §9{0}\n§eKills: §9{1}\n§eTode: §9{2}\n§eK/D: §9{3}\n§eWins: §9{4}\n§eNiederlagen: §9{5}\n\n§eWin-Chance: §9{6}",
-    "ui.text.stats.mlgrush": "§eRunden: §9{0}\n§eKills: §9{1}\n§eTode: §9{2}\n§eK/D: §9{3}\n§eWins: §9{4}\n§eNiederlagen: §9{5}\n\n§eWin-Chance: §9{6}",
+    "ui.text.stats.mlgrush": "§eRunden: §9{0}\n§eKills: §9{1}\n§eTode: §9{2}\n§eK/D: §9{3}\n§eWins: §9{4}\n§eNiederlagen: §9{5}\n§eAbgebaute Betten: §9{6}\n\n§eWin-Chance: §9{7}",
     "ui.text.stats.getdown": "§eRunden: §9{0}\n§eKills: §9{1}\n§eTode: §9{2}\n§eK/D: §9{3}\n§eWins: §9{4}\n§eNiederlagen: §9{5}\n\n§eWin-Chance: §9{6}",
     "ui.text.stats.cores": "§eRunden: §9{0}\n§eKills: §9{1}\n§eTode: §9{2}\n§eK/D: §9{3}\n§eWins: §9{4}\n§eNiederlagen: §9{5}\n§eAbgebaute Cores: §9{6}\n\n§eWin-Chance: §9{7}",
     "ui.text.chooseColor": "§3Bitte wähle deine gewünschte Farbe aus.",
