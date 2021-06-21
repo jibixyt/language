@@ -185,6 +185,7 @@
     "message.buildModeEnabled": "{PREFIX}§aYou have enabled the Build-Mode!",
     "message.buildModeDisabled": "{PREFIX}§cYou have disabled the Build-Mode!",
     "message.haveFunOnKingBuild": "{PREFIX}§aVHave fun playing on §4 King§gBuild§a!",
+    "message.youWereWarned": "{PREFIX}§cYou were warned! §eKeep track of our rules!",
 
     "chatformat.blocked": "§7[§cBlocked§7]",
 
