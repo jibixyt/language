@@ -146,7 +146,7 @@
     "message.youHaveNotVotedToday": "{PREFIX}§cDu hast heute noch nicht gevoted. Voten kannst du unter https://kingbuild.de/vote.",
     "message.topVotersMonth": "{PREFIX}§aTop Votes diesen Monath",
     "message.noCaps": "{PREFIX}§cBitte benutze nicht so viele Großbuchstaben!",
-    "message.noWebsites": "{PREFIX}§cBitte teile hier keine Websiten!",
+    "message.noWebsites": "{PREFIX}§cBitte teile hier keine Webseiten!",
     "message.sameMessage": "{PREFIX}§cBitte wiederhole dich nicht!",
     "message.noIps": "{PREFIX}§cBitte sende hier keine Ip-Adressen in den Chat!",
     "message.cannotMsgYourSelf": "{PREFIX}§cDu kannst dir nicht selbst schreiben!",
