@@ -291,7 +291,7 @@
     "item.grapplinghook": "§6Enterhaken",
     "item.lobbyTrain.leave": "§cAussteigen",
     "item.lobbyTrain.horn": "§6Horn",
-    "item.lobbyTrain.bost": "§6Boost",
+    "item.lobbyTrain.boost": "§6Boost",
 
     "betterSpectator.chatFormat": "§8[§7ZUSCHAUER§8] §7{0} §8> §7{1}",
     "betterSpectator.item.teleportToPlayer.name": "§r§l§eTeleport zum Spieler§r",
