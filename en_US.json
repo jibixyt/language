@@ -184,8 +184,10 @@
     "message.playerSpectatesNow": "§e{0}§b is now spectating the match!",
     "message.buildModeEnabled": "{PREFIX}§aYou have enabled the Build-Mode!",
     "message.buildModeDisabled": "{PREFIX}§cYou have disabled the Build-Mode!",
-    "message.haveFunOnKingBuild": "{PREFIX}§aVHave fun playing on §4 King§gBuild§a!",
-    "message.youWereWarned": "{PREFIX}§cYou were warned! §eKeep track of our rules!",
+    "message.haveFunOnKingBuild": "{PREFIX}§aHave fun playing on §4 King§gBuild§a!",
+    "message.youHaveReachedTheMaxPets": "{PREFIX}§cYou have already reached the maximum amount of allowed pets!",
+    "message.petNameToShort": "{PREFIX}§cPlease use more characters for the pet name!",
+    "message.petNameToLong": "{PREFIX}§cPlease use fewer characters for the pet name!",
 
     "chatformat.blocked": "§7[§cBlocked§7]",
 
@@ -289,7 +291,7 @@
     "item.grapplinghook": "§6GrapplingHook",
     "item.lobbyTrain.leave": "§cLeave",
     "item.lobbyTrain.horn": "§6Horn",
-    "item.lobbyTrain.bo0st": "§6Boost",
+    "item.lobbyTrain.boost": "§6Boost",
 
     "betterSpectator.chatFormat": "§8[§7SPECTATE§8] §7{0} §8> §7{1}",
     "betterSpectator.item.teleportToPlayer.name": "§r§l§eTeleport to Player§r",
