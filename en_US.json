@@ -30,6 +30,8 @@
     "raw.points": "Points",
     "raw.allowed": "Allowed",
     "raw.forbidden": "Forbidden",
+    "raw.enabled": "Enabled",
+    "raw.disabled": "Disabled",
     "raw.team.blue": "§1Blue",
     "raw.team.blue.color": "§1",
     "raw.team.green": "§2Green",
@@ -75,6 +77,7 @@
     "message.gameWasAlreadySkipped": "{0}§cThe Countdown was already skipped.",
     "message.gameWasSkipped": "{0}You have skipped the countdown.",
     "message.youHaveTranslated": "{PREFIX}§aThe translation of the text from§5 {0}§a to§5 {1}§a is:§6 {3}",
+    "message.autoTranslationValue": "{PREFIX}§aYou have successfully {0}§5 Auto translation§a!",
     "message.playerNotOnline": "{PREFIX}§cThe player is not online.",
     "message.playerNotFound": "{PREFIX}§cThe Player was not found.",
     "message.onlyPlayers": "{PREFIX}§cPlease use this ingame.",
@@ -190,6 +193,7 @@
     "message.petNameToLong": "{PREFIX}§cPlease use fewer characters for the pet name!",
 
     "chatformat.blocked": "§7[§cBlocked§7]",
+    "chatformat.blocked.list": "§7-=§4Blocked Players§8 (§6{0}§8)§7=-",
 
     "popup.skinReset": "Skin was reseted",
     "popup.waitingForEnemy": "§8Waiting for an Enemy{0}",
