@@ -192,6 +192,7 @@
     "message.youHaveReachedTheMaxPets": "{PREFIX}§cDu hast bereits die maximale Anzahl an Pets erreicht!",
     "message.petNameToShort": "{PREFIX}§cBitte benutze mehr Zeichen für den Pet Name!",
     "message.petNameToLong": "{PREFIX}§cBitte benutze weniger Zeichen für den Pet Name!",
+    "message.yourPingIs": "{PREFIX}§aDein Ping beträgt: {0}§ams",
 
     "chatformat.blocked": "§7[§cBlockiert§7]§8 ",
     "chatformat.blocked.list": "§7-=§3Geblockte Spieler§8 (§6{0}§8)§7=-",
