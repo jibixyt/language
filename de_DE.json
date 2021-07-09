@@ -283,6 +283,8 @@
     "item.cooldown": "§aVote §eShuss-Cooldown",
     "item.lasertag.lasergun": "§6LaserGun",
     "item.lasertag.mine": "§cMine",
+    "item.lasertag.godstar": "§cGottStern",
+    "item.lasertag.wall": "§cSchutzWand",
     "item.challenge": "§7Herausfordern",
     "item.hub": "§4Zurück zum Hub",
     "item.sortInventory": "§7Inventar Sortieren",
