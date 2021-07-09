@@ -281,6 +281,8 @@
     "item.cooldown": "§aVote §eShot cooldown",
     "item.lasertag.lasergun": "§6LaserGun",
     "item.lasertag.mine": "§cMine",
+    "item.lasertag.godstar": "§cGodStar",
+    "item.lasertag.wall": "§cProtectiveWall",
     "item.challenge": "§7challenge",
     "item.hub": "§4Back to Hub",
     "item.sortInventory": "§7Sort Inventory",
