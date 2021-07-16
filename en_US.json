@@ -32,6 +32,7 @@
     "raw.forbidden": "Forbidden",
     "raw.enabled": "Enabled",
     "raw.disabled": "Disabled",
+    "raw.highestKillstreak": "Highest Killstreak",
     "raw.team.blue": "§1Blue",
     "raw.team.blue.color": "§1",
     "raw.team.green": "§2Green",
