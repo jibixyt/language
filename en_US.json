@@ -111,6 +111,8 @@
     "message.youDied": "§cYou died!",
     "message.youKilled": "§aYou have killed {1}§a!",
     "message.killstreak": "{0} has reached a killstreak of {1}!",
+    "message.coinsForKillstreak": "§aYou received§6 {0} Coins§a for your§5 {0}§aer Killstreak!",
+    "message.playerReachedKillstreak": "§b{0}§7 has reached a Killstreak of§5 {1}§7!",
     "message.blocksAreUnderYou": "Unter dir sind Blöcke, weshalb du die Rettungslattform nicht nutzen kannst!",
     "message.teamingEnabled": "You have successfully enabled Teams!",
     "message.teamingDisabled": "You have successfully disabled Teams!",
