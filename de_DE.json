@@ -20,6 +20,7 @@
     "raw.minute": "Minute",
     "raw.seconds": "Sekunden",
     "raw.second": "Sekunde",
+    "raw.onlinetime": "Online Zeit",
     "raw.kills": "Kills",
     "raw.deaths": "Tode",
     "raw.level": "Level",
@@ -199,6 +200,9 @@
     "message.petNameToShort": "{PREFIX}§cBitte benutze mehr Zeichen für den Pet Name!",
     "message.petNameToLong": "{PREFIX}§cBitte benutze weniger Zeichen für den Pet Name!",
     "message.yourPingIs": "{PREFIX}§aDein Ping beträgt: {0}§ams",
+    "message.playersPingIs": "{PREFIX}§3{0}s§a Ping beträgt: {1}§ams",
+    "message.yourOnlineTimeIs": "{PREFIX}§aDeine Online Zeit beträgt:§6 {0}",
+    "message.playersOnlinetimeIs": "{PREFIX}§3{0}s§a Online Zeit beträgt:§6 {1}",
 
     "chatformat.blocked": "§7[§cBlockiert§7]§8 ",
     "chatformat.blocked.list": "§7-=§3Geblockte Spieler§8 (§6{0}§8)§7=-",
