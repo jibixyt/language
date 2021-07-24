@@ -205,6 +205,8 @@
     "message.playersOnlinetimeIs": "{PREFIX}§3{0}s§a online time is:§6 {1}",
     "message.youNeedMoreCoins": "§cYou dont have enough money to buy this!",
     "message.boughtSuccess": "§aYour purchase was successful!",
+    "message.alreadyBought": "§cYou have already bought this extra!",
+    "popup.cannotUseHere": "§cYou cant use this here!",
 
     "chatformat.blocked": "§7[§cBlocked§7]",
     "chatformat.blocked.list": "§7-=§4Blocked Players§8 (§6{0}§8)§7=-",
@@ -264,7 +266,7 @@
     "ui.button.selectPlus": "Plus change",
     "ui.button.selectMinus": "Minus change",
     "ui.button.voteCooldown": "§e{0}§7 Second{1}",
-    "ui.button.shop.enderpearls": "§72x§3 Enderpearls",
+    "ui.button.shop.enderpearls": "§71x§3 Enderpearls",
     "ui.button.shop.booster": "§71x§3 Leaper",
     "ui.button.shop.plattform": "§71x§3 Plattform",
     "ui.button.shop.medicine": "§71x§3 Medicine",
