@@ -206,6 +206,7 @@
     "message.playersOnlinetimeIs": "{PREFIX}§3{0}s§a Online Zeit beträgt:§6 {1}",
     "message.youNeedMoreCoins": "§cDu hast nicht genügend Coins um dir das zu kaufen!",
     "message.boughtSuccess": "§aDein Kauf war erfolgreich!",
+    "message.alreadyBought": "§cDu hast dieses Extra bereits gekauft!",
 
     "chatformat.blocked": "§7[§cBlockiert§7]§8 ",
     "chatformat.blocked.list": "§7-=§3Geblockte Spieler§8 (§6{0}§8)§7=-",
@@ -215,6 +216,7 @@
     "popup.maximumPlaceheight": "§cMaximale Bauhöhe ereicht!",
     "popup.spawnProtection": "§cSpawnschutz!",
     "popup.alreadyChallenged": "§cDu hast§e {0}§c bereits herausgefordert!",
+    "popup.cannotUseHere": "§cDas kannst du hier nicht benutzen!",
 
     "majority": "n",
 
@@ -265,7 +267,7 @@
     "ui.button.back": "§cZurück",
     "ui.button.selectPlus": "Plus ändern",
     "ui.button.selectMinus": "Minus ändern",
-    "ui.button.shop.enderpearls": "§72x§3 Enderperlen",
+    "ui.button.shop.enderpearls": "§71x§3 Enderperlen",
     "ui.button.shop.booster": "§71x§3 Booster",
     "ui.button.shop.plattform": "§71x§3 Plattform",
     "ui.button.shop.medicine": "§71x§3 Medizin",
