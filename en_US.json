@@ -107,6 +107,7 @@
     "message.noPermissionToUseCommand": "{PREFIX}§cYou dont have the permission to use this command.",
     "message.registeredPlayers": "{PREFIX}Momentan sind §e{0}§7 Spieler auf KingBuild registriert.",
     "message.youKilledByHealth": "§cYou was killed by§5 {1}§7 (§b{2}§7/§c20§7)",
+    "message.youKilledBy": "§cYou was killed by§5 {0}",
     "message.youWasKilledByGadget": "§cYou was killed by§5 {1}'s§6 {2}",
     "message.youKilledWithGadget": "§aYou have killed§5 {1}§a with the gadget§6 {2}",
     "message.youDied": "§cYou died!",
@@ -267,7 +268,7 @@
     "ui.button.selectMinus": "Minus change",
     "ui.button.voteCooldown": "§e{0}§7 Second{1}",
     "ui.button.shop.enderpearls": "§71x§3 Enderpearls",
-    "ui.button.shop.booster": "§71x§3 Leaper",
+    "ui.button.shop.leaper": "§71x§3 Leaper",
     "ui.button.shop.plattform": "§71x§3 Plattform",
     "ui.button.shop.medicine": "§71x§3 Medicine",
 
