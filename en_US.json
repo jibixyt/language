@@ -269,7 +269,7 @@
     "ui.text.chooseMessageUi": "§3Please select a message.",
     "ui.text.input_player": "§3Please specify a player.",
     "ui.text.selectLanguage": "§3Please select a language.",
-    "ui.text.stats.1v1": "§eRounds: §9{0}\n§eWins: §9{1}\n§eDefeats: §9{2}\n\n§eWin-Chance: §9{6}",
+    "ui.text.stats.1v1": "§eRounds: §9{0}\n§eWins: §9{1}\n§eDefeats: §9{2}\n\n§eWin-Chance: §9{3}",
     "ui.text.stats.knockffa": "§eKills: §9{0}\n§eDeaths: §9{1}\n§eK/D: §9{2}\n§eHighest Killstreak:§9 {3}",
     "ui.text.stats.lasertag": "§eRounds: §9{0}\n§eKills: §9{1}\n§eDeaths: §9{2}\n§eK/D: §9{3}\n§eWins: §9{4}\n§eDefeats: §9{5}",
     "ui.text.stats.mlgrush": "§eRounds: §9{0}\n§eKills: §9{1}\n§eDeaths: §9{2}\n§eK/D: §9{3}\n§eWins: §9{4}\n§eDefeats: §9{5}\n§eBreaked Beds: §9{6}\n\n§eWin-Chance: §9{7}",
