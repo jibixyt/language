@@ -227,7 +227,7 @@
     "message.gameruleWasChanged": "§aDie Spielregeln wurden erfolgreich gespeichert!",
     "message.duelEndingIn": "§cDas Duel ended in§6 {0} Minuten§c!",
     "message.cannotLoadMapQuit": "§cDie Runde konnte nicht gestartet werden, da dein Gegner nicht mehr Online ist!",
-    "message.nobodyWonDuel": "§cNiemand hat die Runde gewonnen, da dein Gegner nicht mehr Online ist!",
+    "message.nobodyWonDuel": "§cNiemand hat die Runde gewonnen, da der Gegner nicht mehr Online ist!",
 
     "chatformat.blocked": "§7[§cBlockiert§7]§8 ",
     "chatformat.blocked.list": "§7-=§3Geblockte Spieler§8 (§6{0}§8)§7=-",
@@ -394,6 +394,8 @@
     "1vs1.gamerule.hunger": "Hunger",
     "1vs1.gamerule.crafting": "Crafting",
     "1vs1.gamerule.doubleJump": "Doppel Sprung",
+    "1vs1.gamerule.redouceKnockback": "Redouce Knockback",
+    "1vs1.gamerule.knockback": "Knockback Stärke",
     "1vs1.gamerule.levelTime": "Uhrzeit",
     "1vs1.gamerule.stopLevelTime": "Uhrzeit stoppen",
     "1vs1.gamerule.levelDifficulty": "Schwierigkeit",
